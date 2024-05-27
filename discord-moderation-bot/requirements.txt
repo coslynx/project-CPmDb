@@ -1,0 +1,7 @@
+# discord-moderation-bot/requirements.txt
+
+discord.py==1.7.3
+asyncio==3.4.3
+sqlalchemy==1.4.25
+python-dotenv==0.19.0
+requests==2.26.0
